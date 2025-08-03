@@ -2,9 +2,11 @@ from flask import Flask, request, jsonify
 from db import init_db, fetch_user_profile, upsert_user_profile, fetch_recent_memory, store_chat_memory
 from utils import detect_tone, extract_user_facts, build_gemini_prompt, fake_embedding, search_semantic_memory
 from gemini_client import get_model, chat_with_gemini
+from flask_cors import CORS
 
 BOT_NAME = "Miko"
 app = Flask(__name__)
+CORS(app)
 init_db()
 
 @app.route("/", methods=["GET"])

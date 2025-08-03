@@ -1,3 +1,12 @@
+## Project Information
+
+**Name:** Soumy Jain  
+**Email ID:** jainsoumya7378@gmail.com  
+**Deployed Backend:** [https://warm-maddi-sucker3699-4b9dd4dc.koyeb.app/](https://warm-maddi-sucker3699-4b9dd4dc.koyeb.app/chat)
+**Deployed Frontend** [https://stan-bot-frontend.vercel.app/](https://stan-bot-frontend.vercel.app/)  
+**GitHub Repository:** [https://github.com/yourusername/your-repo](https://github.com/yourusername/your-repo)
+
+
 # Miko Chatbot API
 
 **Miko** is a human-like, emotionally intelligent, context-aware chatbot API built with Flask and Google Gemini, capable of "remembering" users, adapting tone, and supporting rich back-and-forth conversations with personalized memory.
