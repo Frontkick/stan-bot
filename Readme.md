@@ -4,7 +4,7 @@
 **Email ID:** jainsoumya7378@gmail.com  
 **Deployed Backend:** [https://warm-maddi-sucker3699-4b9dd4dc.koyeb.app/](https://warm-maddi-sucker3699-4b9dd4dc.koyeb.app/chat)
 **Deployed Frontend** [https://stan-bot-frontend.vercel.app/](https://stan-bot-frontend.vercel.app/)  
-**GitHub Repository:** [https://github.com/yourusername/your-repo](https://github.com/yourusername/your-repo)
+**GitHub Repository:** [https://github.com/Frontkick/stan-bot](https://github.com/Frontkick/stan-bot)
 
 
 # Miko Chatbot API
