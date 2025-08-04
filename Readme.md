@@ -5,6 +5,7 @@
 **Deployed Backend:**  [https://square-sherie-sucker3699-4d0288b8.koyeb.app/](https://square-sherie-sucker3699-4d0288b8.koyeb.app/)  
 **Deployed Frontend:** [https://stan-bot-frontend.vercel.app/](https://stan-bot-frontend.vercel.app/)  
 **GitHub Repository:** [https://github.com/Frontkick/stan-bot](https://github.com/Frontkick/stan-bot)  
+**Video Link** [https://drive.google.com/file/d/1137O1Rz4KLnUIe2FLvPiZOBmxCdwftsx/view?usp=sharing](https://drive.google.com/file/d/1137O1Rz4KLnUIe2FLvPiZOBmxCdwftsx/view?usp=sharing)  
 
 
 # Miko Chatbot API
